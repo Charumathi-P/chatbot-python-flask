@@ -1,0 +1,17 @@
++----------------------------------------+
+|          🤖 Flask ChatBot              |
++----------------------------------------+
+| Bot: Hello! 👋                         |
+| You: Hi                                |
+|                                        |
+| Bot: Hello! How can I help you?        |
+| You: What is your name?                |
+|                                        |
+| Bot: I'm FlaskBot.                     |
+| You: Thanks                            |
+|                                        |
+| Bot: You're welcome! 😊                |
+|                                        |
++----------------------------------------+
+| Type your message...        [ Send ]   |
++----------------------------------------+
