@@ -26,11 +26,6 @@ chatbot-python-flask/
 │── requirements.txt
 │── README.md
 
-##  Installation
-git clone https://github.com/yourusername/chatbot-python-flask.git
-cd chatbot-python-flask
-pip install -r requirements.txt
-python app.py
 
 ##  Future Improvements
 - Voice chatbot
